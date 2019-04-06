@@ -1,0 +1,4 @@
+This is the code I wrote to control the robot's motors and change direction and alignment so the 
+it can follow a clear path of electrical tape. It was written for an Arduino Uno, and I used 
+IR sensors in order to detect the path. 
+
